@@ -19,5 +19,3 @@ Start-Sleep -Seconds 1
 scoop install steam
 Start-Sleep -Seconds 1
 choco install lmms
-Start-Sleep -Seconds 1
-choco install godot
